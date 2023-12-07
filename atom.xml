@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>风居住过的小巷的博客</title>
+  <title>风居住过的小巷</title>
   
   <subtitle>我的博客</subtitle>
   <link href="https://tyrone.github.io/atom.xml" rel="self"/>
   
   <link href="https://tyrone.github.io/"/>
-  <updated>2023-12-06T11:53:51.009Z</updated>
+  <updated>2023-12-07T02:04:24.158Z</updated>
   <id>https://tyrone.github.io/</id>
   
   <author>
@@ -17,13 +17,73 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用hexo搭建博客（一）</title>
+    <link href="https://tyrone.github.io/2023/12/06/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://tyrone.github.io/2023/12/06/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2023-12-06T14:41:51.000Z</published>
+    <updated>2023-12-07T02:04:24.158Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次搭建的时候强烈建议看一下官方文档<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a>。建议耐心看完。</p><p>在你想要美化你的博客之前，我的建议是先看butterfly官方文档<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a>，我之前踩过很多坑耗费了不少时间，但是在第二遍搭建的时候发现人家官方文档已经把可能出现的问题和解决方案都给你了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;第一次搭建的时候强烈建议看一下官方文档&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;文档 | Hexo&lt;/a&gt;。建议耐心看完。&lt;/p&gt;
+&lt;p&gt;在你想要美化你的博客之前，我的建议是先看butterfly官方文档&lt;a href=&quot;https://b</summary>
+      
+    
+    
+    
+    <category term="博客相关" scheme="https://tyrone.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/"/>
+    
+    <category term="hexo" scheme="https://tyrone.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://tyrone.github.io/tags/hexo/"/>
+    
+    <category term="github" scheme="https://tyrone.github.io/tags/github/"/>
+    
+    <category term="博客" scheme="https://tyrone.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>总结</title>
+    <link href="https://tyrone.github.io/2023/12/06/my-blogs/"/>
+    <id>https://tyrone.github.io/2023/12/06/my-blogs/</id>
+    <published>2023-12-06T13:10:38.000Z</published>
+    <updated>2023-12-07T02:27:19.673Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>hexo官方文档地址：</strong><a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p><p><strong>butterfly官方文档地址：</strong><a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p><p><strong>图床网址：</strong><a href="https://postimages.org/">Postimages — 免费图片托管 &#x2F; 图片上传</a></p><p><strong>我的github项目地址：</strong> <a href="https://github.com/tyrone/tyrone.github.io">https://github.com/tyrone/tyrone.github.io</a></p><p><strong>我的博客：</strong><a href="https://tyrone.github.io/">风居住过的小巷的博客 - 我的博客 (tyrone.github.io)</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;hexo官方文档地址：&lt;/strong&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;文档 | Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;butterfly官方文档地址：&lt;/strong&gt;&lt;a href=&quot;https://</summary>
+      
+    
+    
+    
+    <category term="总结" scheme="https://tyrone.github.io/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="summary" scheme="https://tyrone.github.io/categories/%E6%80%BB%E7%BB%93/summary/"/>
+    
+    
+    <category term="总结" scheme="https://tyrone.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="summary" scheme="https://tyrone.github.io/tags/summary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="https://tyrone.github.io/2023/12/06/test/"/>
     <id>https://tyrone.github.io/2023/12/06/test/</id>
     <published>2023-12-06T05:58:22.000Z</published>
-    <updated>2023-12-06T11:53:51.009Z</updated>
+    <updated>2023-12-06T14:16:11.159Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><p><em>引用块</em></p><blockquote><p>content</p><footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote><p><strong>没有提供参数，则只输出普通的 blockquote</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote %&#125;</span><br><span class="line">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用书上的句子</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote David Levithan, Wide Awake %&#125;</span><br><span class="line">Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用 Twitter</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote @DevDocs https://twitter.com/devdocs/status/356095192085962752 %&#125;</span><br><span class="line">NEW: DevDocs now comes with syntax highlighting. http://devdocs.io</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用网络上的文章</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote Seth Godin http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html Welcome to Island Marketing %&#125;</span><br><span class="line">Every interaction is both precious and an opportunity to delight.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a><em>代码块</em></h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock [title] [lang:language] [url] [link text] [additional options] %&#125;</span><br><span class="line">code snippet</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>普通代码块</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">alert(&#x27;Hello World!&#x27;);</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure><h2 id="Pull-Quote"><a href="#Pull-Quote" class="headerlink" title="Pull Quote"></a>Pull Quote</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% pullquote [class] %&#125;</span><br><span class="line">content</span><br><span class="line">&#123;% endpullquote %&#125;</span><br></pre></td></tr></table></figure><h2 id="Image"><a href="#Image" class="headerlink" title="Image"></a>Image</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% img [class names] /path/to/image [width] [height] &#x27;&quot;title text&quot; &quot;alt text&quot;&#x27; %&#125;</span><br></pre></td></tr></table></figure><h2 id="Link"><a href="#Link" class="headerlink" title="Link"></a>Link</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% link text url [external] [title] %&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><p><em>引用块</em></p><blockquote><p>content</p><footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote><p><a href="https://i.imgur.com/YlKWehv.jpg">Imgur</a></p><blockquote class="imgur-embed-pub" lang="en" data-id="a/YlKWehv" data-context="false" ><a href="//imgur.com/a/YlKWehv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><p><strong>没有提供参数，则只输出普通的 blockquote</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote %&#125;</span><br><span class="line">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用书上的句子</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote David Levithan, Wide Awake %&#125;</span><br><span class="line">Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用 Twitter</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote @DevDocs https://twitter.com/devdocs/status/356095192085962752 %&#125;</span><br><span class="line">NEW: DevDocs now comes with syntax highlighting. http://devdocs.io</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><p><strong>引用网络上的文章</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote Seth Godin http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html Welcome to Island Marketing %&#125;</span><br><span class="line">Every interaction is both precious and an opportunity to delight.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a><em>代码块</em></h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock [title] [lang:language] [url] [link text] [additional options] %&#125;</span><br><span class="line">code snippet</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>普通代码块</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">alert(&#x27;Hello World!&#x27;);</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure><h2 id="Pull-Quote"><a href="#Pull-Quote" class="headerlink" title="Pull Quote"></a>Pull Quote</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% pullquote [class] %&#125;</span><br><span class="line">content</span><br><span class="line">&#123;% endpullquote %&#125;</span><br></pre></td></tr></table></figure><h2 id="Image"><a href="#Image" class="headerlink" title="Image"></a>Image</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% img [class names] /path/to/image [width] [height] &#x27;&quot;title text&quot; &quot;alt text&quot;&#x27; %&#125;</span><br></pre></td></tr></table></figure><h2 id="Link"><a href="#Link" class="headerlink" title="Link"></a>Link</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% link text url [external] [title] %&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
@@ -41,7 +101,7 @@
     <link href="https://tyrone.github.io/2023/12/06/hello-world/"/>
     <id>https://tyrone.github.io/2023/12/06/hello-world/</id>
     <published>2023-12-06T05:29:17.980Z</published>
-    <updated>2023-12-06T05:29:17.980Z</updated>
+    <updated>2023-12-07T02:02:27.802Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
