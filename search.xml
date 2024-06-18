@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>心得</title>
-    <url>/2023/12/06/summary/</url>
-    <content><![CDATA[<p>第一次搭建的时候强烈建议看一下官方文档<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a>。建议耐心看完。</p>
-<p>在你想要美化你的博客之前，我的建议是先看butterfly官方文档<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a>，我之前踩过很多坑耗费了不少时间，但是在第二遍搭建的时候发现人家官方文档已经把可能出现的问题和解决方案都给你了。</p>
+    <title>总结</title>
+    <url>/2023/12/06/my-blogs/</url>
+    <content><![CDATA[<p><strong>hexo官方文档地址：</strong><a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
+<p><strong>butterfly官方文档地址：</strong><a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p>
+<p><strong>图床网址：</strong><a href="https://postimages.org/">Postimages — 免费图片托管 &#x2F; 图片上传</a></p>
+<p><strong>我的github项目地址：</strong> <a href="https://github.com/tyrone/tyrone.github.io">https://github.com/tyrone/tyrone.github.io</a></p>
+<p><strong>我的博客：</strong><a href="https://tyrone.github.io/">风居住过的小巷的博客 - 我的博客 (tyrone.github.io)</a></p>
 ]]></content>
       <categories>
-        <category>博客相关</category>
-        <category>hexo</category>
+        <category>总结</category>
+        <category>summary</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>github</tag>
-        <tag>博客</tag>
+        <tag>总结</tag>
+        <tag>summary</tag>
       </tags>
   </entry>
   <entry>
-    <title>test</title>
+    <title>这只是个Go程序小测试</title>
     <url>/2024/06/18/test/</url>
     <content><![CDATA[<p>图片示例</p>
-<p><img src="/../image/WeChat%20Image_20230323200308.jpg"> </p>
+<p><img src="https://i.postimg.cc/xjLWXrXr/girl-7130668-1280.png"></p>
 <p>这是go语言示例</p>
 <figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">&quot;fmt&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">   fmt.Println(<span class="string">&quot;Hello, World!&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
@@ -29,7 +31,7 @@
         <category>博客相关</category>
       </categories>
       <tags>
-        <tag>博客搭建</tag>
+        <tag>博客搭建的</tag>
       </tags>
   </entry>
   <entry>
@@ -169,27 +171,25 @@
         <category>博客相关</category>
       </categories>
       <tags>
+        <tag>博客搭建</tag>
         <tag>hexo</tag>
         <tag>github</tag>
-        <tag>博客搭建</tag>
       </tags>
   </entry>
   <entry>
-    <title>总结</title>
-    <url>/2023/12/06/my-blogs/</url>
-    <content><![CDATA[<p><strong>hexo官方文档地址：</strong><a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
-<p><strong>butterfly官方文档地址：</strong><a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p>
-<p><strong>图床网址：</strong><a href="https://postimages.org/">Postimages — 免费图片托管 &#x2F; 图片上传</a></p>
-<p><strong>我的github项目地址：</strong> <a href="https://github.com/tyrone/tyrone.github.io">https://github.com/tyrone/tyrone.github.io</a></p>
-<p><strong>我的博客：</strong><a href="https://tyrone.github.io/">风居住过的小巷的博客 - 我的博客 (tyrone.github.io)</a></p>
+    <title>心得</title>
+    <url>/2023/12/06/summary/</url>
+    <content><![CDATA[<p>第一次搭建的时候强烈建议看一下官方文档<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a>。建议耐心看完。</p>
+<p>在你想要美化你的博客之前，我的建议是先看butterfly官方文档<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a>，我之前踩过很多坑耗费了不少时间，但是在第二遍搭建的时候发现人家官方文档已经把可能出现的问题和解决方案都给你了。</p>
 ]]></content>
       <categories>
-        <category>总结</category>
-        <category>summary</category>
+        <category>博客相关</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>总结</tag>
-        <tag>summary</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
 </search>
