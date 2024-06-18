@@ -143,22 +143,6 @@
       </tags>
   </entry>
   <entry>
-    <title>心得</title>
-    <url>/2023/12/06/summary/</url>
-    <content><![CDATA[<p>第一次搭建的时候强烈建议看一下官方文档<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a>。建议耐心看完。</p>
-<p>在你想要美化你的博客之前，我的建议是先看butterfly官方文档<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a>，我之前踩过很多坑耗费了不少时间，但是在第二遍搭建的时候发现人家官方文档已经把可能出现的问题和解决方案都给你了。</p>
-]]></content>
-      <categories>
-        <category>博客相关</category>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>github</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>总结</title>
     <url>/2023/12/06/my-blogs/</url>
     <content><![CDATA[<p><strong>hexo官方文档地址：</strong><a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
@@ -174,6 +158,22 @@
       <tags>
         <tag>总结</tag>
         <tag>summary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>心得</title>
+    <url>/2023/12/06/summary/</url>
+    <content><![CDATA[<p>第一次搭建的时候强烈建议看一下官方文档<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a>。建议耐心看完。</p>
+<p>在你想要美化你的博客之前，我的建议是先看butterfly官方文档<a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a>，我之前踩过很多坑耗费了不少时间，但是在第二遍搭建的时候发现人家官方文档已经把可能出现的问题和解决方案都给你了。</p>
+]]></content>
+      <categories>
+        <category>博客相关</category>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
 </search>
